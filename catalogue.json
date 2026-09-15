@@ -1,5 +1,22 @@
 {
-  "generatedAt": "2026-09-15T19:43:59.244Z",
-  "count": 0,
-  "parcours": []
+  "generatedAt": "2026-09-15T20:00:00.821Z",
+  "count": 1,
+  "parcours": [
+    {
+      "slug": "exemple-de-parcours-be54e1",
+      "designation": "Exemple de parcours",
+      "matieres": [
+        "Exemple"
+      ],
+      "niveauxClasse": [
+        "Terminale, première"
+      ],
+      "theme": "Exemple",
+      "observation": "Exemple de formulaire avec tous les types de questions",
+      "nbChapitres": 1,
+      "nbQuestions": 14,
+      "contributedBy": "xgrandjean",
+      "contributedAt": "2026-09-15T19:59:20.525Z"
+    }
+  ]
 }
