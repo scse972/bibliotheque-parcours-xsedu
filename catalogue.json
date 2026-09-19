@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-09-15T20:00:00.821Z",
-  "count": 1,
+  "generatedAt": "2026-09-19T15:27:58.880Z",
+  "count": 2,
   "parcours": [
+    {
+      "slug": "differents-environnements-de-programmation-795c61fd",
+      "designation": "Différents environnements de programmation",
+      "matieres": [
+        "NSI"
+      ],
+      "niveauxClasse": [
+        "Terminale, première"
+      ],
+      "theme": "Programmation",
+      "observation": "Comprendre que chaque langage s’exécute dans un environnement différent :\nLinux → terminal, commandes système, exécution directe via python3 fichier.py ou node fichier.js.\nThonny → console interactive + éditeur de scripts Python.\nJavaScript → console du navigateur ou environnement Node.js.\nGitHub → gestion de version et dépôt distant.",
+      "nbChapitres": 5,
+      "nbQuestions": 93,
+      "contributedBy": "xgrandjean",
+      "contributedAt": "2026-09-19T15:27:14.822Z"
+    },
     {
       "slug": "exemple-de-parcours-be54e1",
       "designation": "Exemple de parcours",
